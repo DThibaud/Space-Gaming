@@ -131,5 +131,10 @@ article > .container  {
     display: flex;
     margin: 15px;
     padding: 20px;
+    height: 700px;
   
+}
+
+.card-img-top {
+    height: 50vh;
 }
